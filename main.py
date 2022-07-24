@@ -83,4 +83,5 @@ async def sendCurrentWorkout():
 
 
 keep_alive()
-client.run('OTk5NzM0Nzk2NDkyMjI2NTkw.GUWzkM.N0n-1Q2OubmjOdAgBJ7uMpgCGW0FSHp9ROf4zY')
+#add bot token below
+client.run('Bot Token')
